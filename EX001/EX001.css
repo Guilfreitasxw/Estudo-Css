@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 45px;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    background: #111;
+    color: #fff;
+    border-radius: 4px;
+    margin: 20px;
+    padding: 30px;
+  
+    
+}
+.titulos-secundarios {
+    display: inline;
+    font-weight: bold;
+    margin: 0px;
+
+}
+
+span {
+    font-weight: bold;
+    color: #febe01;
+    
+}
+
+button {
+    background: #febe01;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #332200;
+}
+
+p {
+    color: #b2b2b2;
+}
+
