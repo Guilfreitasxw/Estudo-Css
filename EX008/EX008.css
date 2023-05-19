@@ -1,0 +1,32 @@
+body {
+    margin: 0%;
+}
+
+
+.bicicleta {
+    height: 800px;
+    background-color: lightblue;
+    background-image: url("img/bicicleta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+
+}
+
+h1 {
+    margin: auto;
+    background: white;
+    padding: 1rem 2rem;
+}
+
+.pattern {
+    height: 300px;
+    background-color: lightcoral;
+    background-image: url("img/pattern.jpg");
+}
+
+.linear {
+    height: 200px;
+    background-image: linear-gradient(to left, lightblue, lightcoral);
+}
